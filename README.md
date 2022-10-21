@@ -33,7 +33,7 @@ There are a few interesting results that are worth noting:
 
    While Charter schools have higher average math scores, the difference in average scores by grade between Charter schools and Public schools is not that great. In fact, the biggest difference is in average math scores is only 8.71 points different.
 
-    The number of students per school does vary greatly, ranging from 171 to 2,038.  
+   The number of students per school does vary greatly, ranging from 171 to 2,038.  
 
 I recommend digging into the ratio of budget dollars per student and how that might correlate to both math and reading score levels. This analysis could go as far as budget dollars per student per grade per school, compared average math and/or reading scores per grade per school for each of the 15 schools in order to see if there correlation between math and/or reading scores and the budget dollars per student.
 
